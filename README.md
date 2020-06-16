@@ -12,7 +12,7 @@ definiendo dos métricas de aprendizaje para la simulación creada.
 |-----------------------|-----------------------------------------------|
 | Daniel Fernando Castañeda Torres      |    <dfcastanedat@unal.edu.co>    |
 | Juan Sebastián Becerra Bárcenas      |    <jsbecerrab@unal.edu.co>     |
-| Juan Sebastián (B)eña Quintero      |    <jspenaq@unal.edu.co>     |
+| Juan Sebastián Beña Quintero      |    <jspenaq@unal.edu.co>     |
 
 ## Entregables
 
