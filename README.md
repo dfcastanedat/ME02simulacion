@@ -10,8 +10,9 @@ definiendo dos métricas de aprendizaje para la simulación creada.
 
 |       Integrante      |                 Correo                       |
 |-----------------------|-----------------------------------------------|
-| Dave Sebastian Valencia Salazar      |    <dsvalencias@unal.edu.co>    |
-| Yesid Alberto Ochoa Luque      |    <yaochoal@unal.edu.co>     |
+| Daniel Fernando Castañeda Torres      |    <dfcastanedat@unal.edu.co>    |
+| Juan Sebastián Becerra Bárcenas      |    <jsbecerrab@unal.edu.co>     |
+| Juan Sebastián (B)eña Quintero      |    <jspenaq@unal.edu.co>     |
 
 ## Entregables
 
